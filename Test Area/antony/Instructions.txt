@@ -1,0 +1,2 @@
+Double click on the bat files to compile and run the java programs.
+Problem 2 of this assignment is included in the PDF file.
